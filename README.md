@@ -1,4 +1,4 @@
-## Virtual Air Painter 🎨✋
+# Virtual Air Painter 🎨✋
 
 A **real-time virtual air drawing application** using hand gestures. Users can draw on the screen without touching anything — simply by moving their fingers in front of a webcam.  
 This project leverages **OpenCV** and **MediaPipe** for hand tracking and gesture recognition.
