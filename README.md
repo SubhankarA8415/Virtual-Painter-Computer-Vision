@@ -54,7 +54,8 @@ This project leverages **OpenCV** and **MediaPipe** for hand tracking and gestur
 
 ## 📞 Contact
 
-**Author:** Subhankar Pandit  
-**Email:** subhankar.pandit2002@gmail.com  
-**GitHub:** https://github.com/SubhankarA8415  
+**Subhankar Pandit**  
+Full Stack Developer | Backend Engineer | AI/ML  
+**GitHub**: https://github.com/SubhankarA8415  
+**LinkedIn**: https://linkedin.com/in/subhankar-pandit   
 
