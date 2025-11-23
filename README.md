@@ -5,7 +5,7 @@ This project leverages **OpenCV** and **MediaPipe** for hand tracking and gestur
 
 ---
 
-### 🚀 Features
+## 🚀 Features
 
 - **Air Drawing:** Draw on the screen using the index finger.  
 - **Color Selection:** Switch between multiple colors using gesture-based selection.  
@@ -16,7 +16,7 @@ This project leverages **OpenCV** and **MediaPipe** for hand tracking and gestur
 
 ---
 
-### 🛠️ Technologies Used
+## 🛠️ Technologies Used
 
 - **Python 3**
 - **OpenCV** – Webcam input, image processing, drawing  
@@ -25,7 +25,7 @@ This project leverages **OpenCV** and **MediaPipe** for hand tracking and gestur
 
 ---
 
-### 🔍 How It Works
+## 🔍 How It Works
 
 1. **Hand Detection:**  
    MediaPipe Hand module detects & tracks 21 hand landmarks.
@@ -43,7 +43,7 @@ This project leverages **OpenCV** and **MediaPipe** for hand tracking and gestur
 
 ---
 
-### 🔮 Future Improvements
+## 🔮 Future Improvements
 
 - Add more colors and brush sizes  
 - Add undo/redo functionality  
@@ -52,7 +52,7 @@ This project leverages **OpenCV** and **MediaPipe** for hand tracking and gestur
 
 ---
 
-### 📞 Contact
+## 📞 Contact
 
 **Author:** Subhankar Pandit  
 **Email:** subhankar.pandit2002@gmail.com  
